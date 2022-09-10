@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+::-webkit-scrollbar{
+    width: 0em;
+}
+
+.allStory{
+    margin-top: 10em;
+    width: 50%;
+    padding: 70em 2em;
+   
+}
+.allStory .stories{
+    border: 1em solid gainsboro;
+    border-radius: 5em;
+    background-color: white;
+    width: 75%;
+    display: flex;
+    margin-left: auto;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    overflow-x: scroll;
+    padding-top: 20em;
+}
+.allStory .stories .card{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    cursor: pointer;
+}
+.card{
+    margin: 0em 30em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+}
+.card img{
+    border-radius: 100%;
+    width: 7vh;
+    height: 7vh;
+    border: 10em solid crimson;
+}
+.card p{
+    font-size: 1.5rem;
+}
+.stories .storybtn button{
+    border: none;
+    background-color: ivory;
+    font-size: 2rem;
+    border-radius: 100%;
+    cursor: pointer;
+    padding:0.2em 0.4em;
+   
+}
+.stories .btnleft{
+    top:2%;
+    position: absolute;
+    left: -2%;
+    
+}
+.stories .btnright{
+    position: absolute;
+    right:-1%;
+    top: 2%;
+    
+    
+}

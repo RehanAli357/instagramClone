@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+body{
+    background-color: rgb(242, 242, 242);
+}
+.postCollection{
+    top: 80%;
+    position: absolute;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.postCollection .postCard{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+    margin-bottom: 5%;
+}
+.postCollection .postCard .postheader{
+   width: 100%;
+    display: flex;
+    float: right;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    border-radius: 20em 20em 0em 0em;
+}
+
+.postheader .headone img{
+    border-radius: 100%;
+    border: 1em solid gray;
+    width: 5vh;
+    height: 5vh;
+}
+.postheader .headone b{
+    font-size: 2rem;
+    cursor: pointer;
+}
+.postheader .headtwo strong{
+    font-size: 3rem;
+    letter-spacing:0.2em;
+    margin-right: 1em;
+    cursor: pointer;
+}
+
+.postCard .postsec{
+    cursor: pointer;
+    height: 50vh;
+    background-color: rgb(196, 201, 205);
+    overflow: hidden;
+}
+.postsec img{
+    width: 100%;
+}
+.postCard .posfooter{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20em;
+    background-color: white;
+    flex-wrap: wrap;
+}
+
+.posfooter .footerone{
+    width: 50%;
+    display: flex;
+}
+.footerone img{
+    width: 12%;
+    margin-left: 20em;
+    cursor: pointer;
+}
+.footerone img:nth-child(1){
+    width: 20%;
+}
+.posfooter .footertwo{
+    width: 50%;
+}
+.footertwo img{
+    width: 12%;
+    float: right;
+    cursor: pointer;
+    margin-right: 2em;
+}
+.posfooter .footerlikes{
+    margin-top: 2%;
+    margin-left: 1%;
+    width: 100%;
+}
+.posfooter .footerlikes b{
+    font-size: 2rem;
+}
+.posfooter .footerusrnm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1%;
+}
+.footerusrnm strong{
+    font-size: 1.5rem;
+    margin-left: 1%;
+    cursor: pointer;
+}
+.footerusrnm p{
+    font-size: 1rem;
+    margin-left: 1em;
+}
