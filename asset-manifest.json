@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/instagramClone/static/css/main.7da6e168.css",
+    "main.js": "/instagramClone/static/js/main.85400627.js",
+    "static/js/787.9d576594.chunk.js": "/instagramClone/static/js/787.9d576594.chunk.js",
+    "static/media/flower.jpg": "/instagramClone/static/media/flower.4b50a1db92653e759cf8.jpg",
+    "static/media/pic2.jpg": "/instagramClone/static/media/pic2.80c14dd6cacd38ab7716.jpg",
+    "static/media/pic8.jpg": "/instagramClone/static/media/pic8.16242a1ff995a7f6461a.jpg",
+    "static/media/globe.jpg": "/instagramClone/static/media/globe.f1a36c83f324506bc115.jpg",
+    "static/media/pic3.jpg": "/instagramClone/static/media/pic3.d661e81d1a7ea3dc740c.jpg",
+    "static/media/world.jpg": "/instagramClone/static/media/world.78fc1cf0133610fd75b3.jpg",
+    "static/media/pic10.jpg": "/instagramClone/static/media/pic10.9327a4a842dbbe9e1a75.jpg",
+    "static/media/pic5.jpg": "/instagramClone/static/media/pic5.f06fca54c21ce8c6696a.jpg",
+    "static/media/pic11.jpg": "/instagramClone/static/media/pic11.76d96c11f5277be6e906.jpg",
+    "static/media/sports.jpg": "/instagramClone/static/media/sports.709a2182d0c534df2114.jpg",
+    "static/media/pic9.jpg": "/instagramClone/static/media/pic9.f6099d6584154686a4ee.jpg",
+    "static/media/adam.jpg": "/instagramClone/static/media/adam.9cbcf1388eca5c068c30.jpg",
+    "static/media/pic7.jpg": "/instagramClone/static/media/pic7.fa70fe67a67b92f42ed4.jpg",
+    "static/media/pic4.jpg": "/instagramClone/static/media/pic4.3172159aeb1632762540.jpg",
+    "static/media/nature.jpg": "/instagramClone/static/media/nature.6e1077173cc994866845.jpg",
+    "static/media/pic6.jpg": "/instagramClone/static/media/pic6.9b4aa9d6e0e51b771314.jpg",
+    "static/media/pic.png": "/instagramClone/static/media/pic.e3bfd7a4ad2abe71c14d.png",
+    "static/media/heart.png": "/instagramClone/static/media/heart.de5308141ab49b969672.png",
+    "static/media/search.png": "/instagramClone/static/media/search.db7223fb17860cf89c08.png",
+    "static/media/message.jpg": "/instagramClone/static/media/message.00f2e921954aeff020b6.jpg",
+    "static/media/home.png": "/instagramClone/static/media/home.4fcd8e1b37de85228349.png",
+    "static/media/loc.png": "/instagramClone/static/media/loc.175bbaccf43186e6651c.png",
+    "static/media/logo.png": "/instagramClone/static/media/logo.0ba64e82656d6150e154.png",
+    "index.html": "/instagramClone/index.html",
+    "main.7da6e168.css.map": "/instagramClone/static/css/main.7da6e168.css.map",
+    "main.85400627.js.map": "/instagramClone/static/js/main.85400627.js.map",
+    "787.9d576594.chunk.js.map": "/instagramClone/static/js/787.9d576594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7da6e168.css",
+    "static/js/main.85400627.js"
+  ]
+}
